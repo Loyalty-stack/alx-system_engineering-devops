@@ -1,1 +1,1 @@
-sybolic
+copy
