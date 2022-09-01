@@ -1,2 +1,2 @@
 #!/bin/bash
-chowm 110 hello
+chown 110 hello 
