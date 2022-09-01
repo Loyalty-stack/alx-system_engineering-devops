@@ -1,0 +1,2 @@
+#!/bin/bash
+chowm 110 hello
